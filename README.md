@@ -1,11 +1,11 @@
-# In-a-Blink(it)
+# 🛵 *</ins>In-a-Blink(it)*</ins> 🛵
 
 
-# 📊 Blinkit Sales Analysis Dashboard
+# 📊 *<ins>Blinkit Sales Analysis Dashboard*</ins>
 
 A Power BI dashboard that visualizes sales, item distribution, and outlet performance for Blinkit — India's Last Minute App. The report provides interactive and detailed insights that can help business stakeholders monitor and improve sales strategies.
 
-## 📌 Key Features
+## 📌 *<ins>Key Features*</ins>
 
 - 💰 **Total Sales**: $1.20M across various outlets
 - 📦 **Number of Items**: 2,000 items categorized by type and fat content
@@ -22,7 +22,7 @@ A Power BI dashboard that visualizes sales, item distribution, and outlet perfor
   - Outlet establishment timeline (2012–2022)
   - Performance comparison across outlet tiers
 
-## 🧩 Visual Elements
+## 🧩 *<ins>Visual Elements*</ins>
 
 - KPI Cards: Total Sales, Avg Sales, Ratings, Item Count
 - Donut Charts: Item fat content, outlet size comparison
@@ -30,22 +30,27 @@ A Power BI dashboard that visualizes sales, item distribution, and outlet perfor
 - Area Line Chart: Outlet establishment trend
 - Matrix Table: Outlet type-wise summary
 
-## 📂 File Info
+## 📂 *<ins>File Info*</ins>
 
 - Dashboard Type: Power BI
 - Technologies: Power BI, DAX, Power Query
 
-## 📸 Screenshot
+  ## 🗂️ *<ins>Dataset</ins>*
+- Source - <a href="https://github.com/Sal-Patil/In-a-Blink/blob/main/BlinkIt%20Grocery%20Data.xlsx">BlinkIt Grocery Data</a>
 
-![Dashboard Screenshot](./10a8a408-483f-4b4e-a746-b4214f743e6c.png)
+## 📸 *<ins>Dashboard Image*</ins>
 
----
+<img width="1867" height="748" alt="Excel_dashboard" src="https://github.com/Sal-Patil/In-a-Blink/blob/main/Dashboard.png" />
+
+## ✅ *Conclusion*
+
+This Blinkit Sales Analysis Dashboard demonstrates end-to-end BI development — from data cleaning and modeling to interactive visual storytelling. It highlights Saloni Patil's ability to deliver scalable insights using Power BI, DAX, and Power Query, making it a strong showcase of analytical and technical skills.
+
 
 ## 📬 Contact
 
-For suggestions or collaboration:  
+For collaboration:  
 **[Saloni Patil](https://github.com/Sal-Patil)**
 
----
 
 > ⚠️ This dashboard is for demonstration purposes only and not affiliated with the official Blinkit brand.
