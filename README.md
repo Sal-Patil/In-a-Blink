@@ -40,7 +40,7 @@ A Power BI dashboard that visualizes sales, item distribution, and outlet perfor
 
 ## 📸 *<ins>Dashboard Image*</ins>
 
-<img width="1867" height="748" alt="Excel_dashboard" src="https://github.com/Sal-Patil/In-a-Blink/blob/main/Dashboard.png" />
+<img width="1867" height="748" alt="BlinkIt_dashboard" src="https://github.com/Sal-Patil/In-a-Blink/blob/main/Dashboard.png" />
 
 ## ✅ *Conclusion*
 
